@@ -1,2 +1,3 @@
 # Simple-card-design
 It's simple card design that I will create just for learning....
+If we are go to other website for buy shoe any websites then we can see like this type of UI.
